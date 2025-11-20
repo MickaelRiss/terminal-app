@@ -50,7 +50,7 @@ export default {
       userInput: '',
       resultMessage: [],
       linkedin: 'https://www.linkedin.com/in/mickael-riss/',
-      github: 'https://github.com/MendosDV',
+      github: 'https://github.com/MickaelRiss',
       manCommand: [
         { name: 'clear', description: 'Delete all displayed content' },
         { name: 'mickael', description: "Display the main information about me"},
@@ -62,20 +62,21 @@ export default {
         { name: 'github', description: 'Check my GitHub profile for more projects' },
       ],
       stackCommand: [
-        { name: 'Backend', description: "Ruby on Rails, Node.js, actually learning Python." },
-        { name: 'Frontend', description: 'HTML, CSS, React, Vue.js, Bootstrap, Tailwind.' },
+        { name: 'Backend', description: "Python, Node.js and Ruby on Rails, Node.js." },
+        { name: 'Frontend', description: 'Next.js, Vue.js, Bootstrap and Tailwind.' },
         { name: 'Database', description: "MySQL, PostgreSQL, MongoDB." },
       ],
-      mickaelCommand: '{"first_name":"Mickael","last_name":"Riss","age":25,"email":"mickaelriss6@gmail.com","website":"www.mickael-riss.com","job":"Software Developer","city":"Montréal"}',
+      mickaelCommand: '{"first_name":"Mickael","last_name":"Riss","age":27,"email":"mickaelriss6@gmail.com","website":"www.mickael-riss.com","job":"Software Developer","city":"Currently in Montréal but moving back to Europe soon.."}',
       whyCommand: `
       {
         "Reasons_to_Hire_Mickael": [
           {
             "Technical_Skills": [
-              "Proficient in modern web technologies, including JavaScript, React, and Node.js.",
-              "Solid experience in frontend development (HTML, CSS) and backend (Node.js, Ruby on Rails).",
-              "In-depth knowledge of SQL databases (MySQL, PostgreSQL) and NoSQL (MongoDB).",
-              "Familiarity with popular frameworks such as Vue.js, Bootstrap, and Tailwind."
+              "Strong experience with Python, JavaScript and the Next.js ecosystem.",
+              "Excellent frontend integration skills: HTML, modern CSS and TailwindCSS.",
+              "Practical backend experience with Ruby on Rails, Node.js, Prisma and PostgreSQL.",
+              "Solid understanding of React and component-based development.",
+              "Good knowledge of Git and modern development workflows."
             ]
           },
           {
@@ -83,7 +84,7 @@ export default {
               "Proactive and enjoys taking initiatives, completing tasks independently, and meeting deadlines.",
               "Effective communication skills, both verbally and in writing, with the ability to collaborate well in a team.",
               "Constant curiosity fuels a passion for discovering new things and tackling challenges as a self-learner, always ready to learn and expand skills.",
-              "Fluent in French (native language) with advanced proficiency in English.",
+              "Fluent in French (native language) and in English.",
               "Thrives in a positive work environment and looks forward to bringing a cheerful spirit to your team! 😊"
             ]
           }
