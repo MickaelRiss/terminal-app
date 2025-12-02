@@ -62,9 +62,9 @@ export default {
         { name: 'github', description: 'Check my GitHub profile for more projects' },
       ],
       stackCommand: [
-        { name: 'Backend', description: "Python, Node.js and Ruby on Rails, Node.js." },
+        { name: 'Backend', description: "Python, Node.js and Ruby on Rails." },
         { name: 'Frontend', description: 'Next.js, Vue.js, Bootstrap and Tailwind.' },
-        { name: 'Database', description: "MySQL, PostgreSQL, MongoDB." },
+        { name: 'Database', description: "MySQL and PostgreSQ." },
       ],
       mickaelCommand: '{"first_name":"Mickael","last_name":"Riss","age":27,"email":"mickaelriss6@gmail.com","website":"https://mickaelriss.dev/","job":"Software Developer","city":"Currently in Montréal but moving back to Europe soon.."}',
       whyCommand: `
