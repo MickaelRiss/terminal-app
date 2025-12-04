@@ -64,7 +64,7 @@ export default {
       stackCommand: [
         { name: 'Backend', description: "Python, Node.js and Ruby on Rails." },
         { name: 'Frontend', description: 'Next.js, Vue.js, Bootstrap and Tailwind.' },
-        { name: 'Database', description: "MySQL and PostgreSQ." },
+        { name: 'Database', description: "MySQL and PostgreSQL." },
       ],
       mickaelCommand: '{"first_name":"Mickael","last_name":"Riss","age":27,"email":"mickaelriss6@gmail.com","website":"https://mickaelriss.dev/","job":"Software Developer","city":"Currently in Montréal but moving back to Europe soon.."}',
       whyCommand: `
