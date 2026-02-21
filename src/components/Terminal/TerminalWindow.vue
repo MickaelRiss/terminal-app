@@ -152,9 +152,9 @@ export default {
 
     downloadCV() {
       const link = document.createElement("a");
-      link.href = "/resume.pdf";
+      link.href = "/Mickael_Riss_resume.pdf";
       link.target = "_blank";
-      link.download = "resume.pdf";
+      link.download = "Mickael_Riss_resume.pdf";
       link.click();
     },
 
